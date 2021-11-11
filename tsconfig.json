@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "lib": ["es6"],
+    "lib": ["dom", "es6"],
     "moduleResolution": "node",
     "target": "es6",
-    "typeRoots": ["node_modules/@types", "node_modules/@figma"]
+    "typeRoots": ["./node_modules/@types", "./node_modules/@figma"]
   }
 }
